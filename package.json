@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -13,7 +14,7 @@
     "@vue/theme": "^2.2.4",
     "dynamics.js": "^1.1.5",
     "gsap": "^3.9.0",
-    "vitepress": "1.0.0-beta.7",
+    "vitepress": "1.6.4",
     "vue": "^3.3.4"
   },
   "devDependencies": {

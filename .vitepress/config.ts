@@ -704,7 +704,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     },
     // @ts-ignore
     ssr: {
-      external: ['@vue/repl']
+      external: ['@vue/repl'],
     },
     server: {
       host: true,
